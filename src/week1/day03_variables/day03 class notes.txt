@@ -3,7 +3,7 @@ Java Programming Day03
 Topics: Variables Intro
 		Primitive Data types
 
-Package name: day03_variables
+Package name: week1.day03_variables
 
 warmup tasks:
 	1. Make sure you have created "GitHub" & "Repl.it" Accounts

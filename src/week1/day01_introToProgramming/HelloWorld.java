@@ -1,4 +1,4 @@
-package day01_introToProgramming;  //This is package name
+package week1.day01_introToProgramming;  //This is package name
 
 public class HelloWorld {  // This is class header
 

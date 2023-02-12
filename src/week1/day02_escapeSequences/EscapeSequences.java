@@ -1,4 +1,4 @@
-package day02_escapeSequences;
+package week1.day02_escapeSequences;
 
 public class EscapeSequences {
 

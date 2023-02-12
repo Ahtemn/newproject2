@@ -1,4 +1,4 @@
-package day03_variables;
+package week1.day03_variables;
 
 public class ReplaceVariableName {
 

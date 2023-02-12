@@ -1,4 +1,4 @@
-package day01_introToProgramming;
+package week1.day01_introToProgramming;
 
 public class HelloCydeo {
 

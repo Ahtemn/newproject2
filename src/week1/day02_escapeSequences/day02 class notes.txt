@@ -14,7 +14,7 @@ Warmup task:
 	2. Go to LMS -> Java Course -> Modules -> Java Day02
 	   		download the pdf file and save it under the sub folder "day02"
 
-	3. Open "Java_Programming" project in intelliJ, and create a package named "day02_escapeSequences"
+	3. Open "Java_Programming" project in intelliJ, and create a package named "week1.day02_escapeSequences"
 
 	4. Create a Java file named "EmployeeInfo" and write a program that can display the following output on the console:
 
