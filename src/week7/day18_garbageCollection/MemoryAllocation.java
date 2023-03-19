@@ -1,6 +1,6 @@
 package week7.day18_garbageCollection;
 
-import day17_customClass.Employee;
+import week6.day17_customClass.Employee;
 
 class Car{
 

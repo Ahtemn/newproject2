@@ -1,6 +1,6 @@
 package week7.day18_garbageCollection;
 
-import day17_customClass.Dog;
+import week6.day17_customClass.Dog;
 
 public class GarbageCollection {
 
