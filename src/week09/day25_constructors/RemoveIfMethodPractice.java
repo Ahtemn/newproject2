@@ -1,6 +1,6 @@
 package week09.day25_constructors;
 
-import day17_customClass.Dog;
+import week06.day17_customClass.Dog;
 
 import java.util.ArrayList;
 import java.util.Arrays;

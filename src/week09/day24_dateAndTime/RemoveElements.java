@@ -1,6 +1,6 @@
 package week09.day24_dateAndTime;
 
-import day17_customClass.Employee;
+import week06.day17_customClass.Employee;
 
 import java.util.ArrayList;
 import java.util.Arrays;
